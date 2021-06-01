@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layouts Demo</string>
+    <string name="ramChooser">Choose RAM Amount</string>
+    <string-array name="ramOptions">
+        <item>2GB</item>
+        <item>4GB</item>
+        <item>8GB</item>
+    </string-array>
+</resources>
